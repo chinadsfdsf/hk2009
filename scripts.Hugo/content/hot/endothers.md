@@ -32,12 +32,6 @@ categories:
 
 {{< mydiv4o link="https://hk2009.chinadsf.org/"   text="hk2009   2020年9月的新聞0" bg="lightsteelblue" >}}
 {{< mydiv4o link="https://hk2009a.chinadsf.org/"  text="hk2009a  2020年9月的新聞a" >}}
-{{< mydiv4o link="https://hk2009b.chinadsf.org/"  text="hk2009b  2020年9月的新聞b" >}}
-{{< mydiv4o link="https://hk2009c.chinadsf.org/"  text="hk2009c  2020年9月的新聞c" >}}
-{{< mydiv4o link="https://hk2009d.chinadsf.org/"  text="hk2009d  2020年9月的新聞d" >}}
-{{< mydiv4o link="https://hk2009e.chinadsf.org/"  text="hk2009e  2020年9月的新聞e" >}}
-{{< mydiv4o link="https://hk2009f.chinadsf.org/"  text="hk2009f  2020年9月的新聞f" >}}
-{{< mydiv4o link="https://hk2009g.chinadsf.org/"  text="hk2009g  2020年9月的新聞g" >}}
 
 {{< mybrline1 color="blue" >}}
 
